@@ -91,10 +91,9 @@ void ddesle3_yshah33(){
     printf("Installing to local machine and keeping track of commits.");
 }
 
-void vcolom2(){
-  printf("Victor Colome\n");
-  printf("Learned that you can make changes to a repository in many different ways,\n");
-  printf("like with Git Bash, Git GUI, Git CMD, Replit, etc.\n");
+void rwisni2_ajoshi46(){
+  printf("Remik Wisniewski and Anshool Joshi\n");
+  printf("Github is really useful for when multiple people are editing a project.\n");
 }
 
 int main() {
@@ -111,6 +110,7 @@ int main() {
   pghimi3_ariver67();
   ddesle3_yshah33();
   jrosal21_melqa2();
+  rwisni2_ajoshi46();
 
   return 0;
 }
