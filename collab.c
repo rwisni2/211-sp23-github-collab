@@ -72,6 +72,11 @@ void jgongo2_pkoby2_kseki3() {
            "You can make multiple commmits before pushing to the repository.\n");
 }
 
+void rwisni2_ajoshi46(){
+  printf("Remik Wisniewski and Anshool Joshi\n");
+  printf("We learned the importance of GitHub as mutliple people can edit a project.");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
